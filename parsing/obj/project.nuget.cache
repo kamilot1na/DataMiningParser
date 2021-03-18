@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "4h8dcQVizF7n7op+UP2u9xiD7aFStFWcmzRuLzBHRebn3Ltgt/Uu+QHMKztS1fudaEWaA45zzgvSSHNt6igedA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Камиль\\source\\repos\\parsing\\parsing\\parsing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Камиль\\.nuget\\packages\\htmlagilitypack\\1.11.30\\htmlagilitypack.1.11.30.nupkg.sha512",
+    "C:\\Users\\Камиль\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.1.0\\microsoft.extensions.dependencyinjection.2.1.0.nupkg.sha512",
+    "C:\\Users\\Камиль\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Камиль\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Камиль\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Камиль\\.nuget\\packages\\npgsql\\5.0.3\\npgsql.5.0.3.nupkg.sha512",
+    "C:\\Users\\Камиль\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\Камиль\\.nuget\\packages\\vknet\\1.60.0\\vknet.1.60.0.nupkg.sha512"
+  ],
+  "logs": []
+}
